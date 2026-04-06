@@ -1,0 +1,20 @@
+---
+title: "Final Project"
+author: "Sophia Puliatti"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+**Introduction** 
+
+The changing climate and increased environmental stress put biodiversity at risk. Understanding species’ responses and potential recovery is critical for long-term protection. In 2014, California had an outbreak of Sea Star Wasting Disease (SSWD) decimated sea star populations across the coastline. The sea star genus *Leptasterias*, an important mesopredator for maintaining biodiversity, experienced a drastic population decline. Within the San Francisco Bay Outflow their population became undetectable. Prior to the outbreak, Duxbury Reef was formerly populated with *Leptasterias* *pusilla* (clades Y and D), but it is unclear if both clades survived the die-off.  In recent years they have returned to a few locations within the SF Bay Outflow, such as Duxbury Reef, but they have not been thoroughly observed. I propose research at Duxbury Reef in Bolinas to track recovery over a year. Every three months, I will spend a day tracking a focal cluster and searching for other clusters. For each, I will survey abundance, size, population expansion, and collect arm tips. In between fieldwork, I will conduct mitochondrial CO1 DNA extraction, PCR, sequencing, phylogenetic analysis, and data interpretation. Using pre-SSWD sequenced samples from Duxbury Reef I will determine relationships with current inhabitants. Tracking changes in abundance may inform us if this is a stable recovery, while tracking for shifts in genetic diversity may help us understand *Leptasterias'*’ resilience to disease outbreaks. Combining field surveys and genetic analysis will provide insight into future *Leptasterias* recovery following massive die-offs.
+
+Research question:
+
+How are *Leptasterias* recovering from Sea Star Wasting disease at Duxbury Reef? 
+
+Aim 1: Quantify abundance and spatial extent of *Leptasterias* population at Duxbury Reef (37°53'48.6"N 122°42'43.0"W) over a year.
+Aim 2. Quantify the prey abundance for *Leptasterias* at Duxbury Reef.
