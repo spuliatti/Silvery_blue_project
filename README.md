@@ -2,7 +2,7 @@
 license: cc0-1.0
 language:
 - en
-pretty_name: Silvery Blue Restoration Project 
+Research: Silvery Blue Restoration Project 
 task_categories: # ex: image-classification, see key list at https://github.com/huggingface/huggingface.js/blob/main/packages/tasks/src/pipelines.ts
 tags:
 - ecology
